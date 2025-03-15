@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **philippliebold/philippliebold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Personal or via mail.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have won the iGeo 2024 in Germany.
--->
