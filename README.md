@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on a project for building my first start-up.
-- 🌱 I’m currently learning programming through Harvards CS50.
+- 🌱 I’m currently learning programming through Harvard CS50.
 - 👯 I’m looking to collaborate on software solutions.
 - 🤔 I’m looking for help with coding.
 - 💬 Ask me about FinTech.
